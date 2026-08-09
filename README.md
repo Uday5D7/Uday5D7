@@ -1,11 +1,3 @@
-<!--
-  ================================================================
-  GITHUB PROFILE README — Madugonde Uday Kumar
-  Replace every <!-- TODO --> comment and [bracketed] field below.
-  Where noted, replace YOUR-USERNAME with your actual GitHub username
-  so the stats/streak/language widgets work.
-  ================================================================
--->
 
 <div align="center">
 
