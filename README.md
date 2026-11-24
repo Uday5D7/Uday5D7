@@ -35,7 +35,7 @@
 
 <!-- UPDATE: add 2-3 personal interests below -->
 **Interests:**
-- Full-stack & AI-powered app development
+- Software & Full-stack & AI-powered app development
 - Real-time systems (Socket.IO, FastAPI streaming)
 - Open-source contribution
 
